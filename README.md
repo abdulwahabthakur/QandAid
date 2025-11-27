@@ -205,16 +205,17 @@ Q&Aid uses Supabase Authentication with:
 ## 📱 Screenshots
 
 ### Dashboard
-View your health overview, active symptoms, and risk flags at a glance.
+![Screenshot 2025-11-27 014102](https://github.com/user-attachments/assets/e30db07a-f612-446e-8059-14cc428af176)
 
 ### Chat Interface
-Natural conversation with the AI health assistant.
+![Screenshot 2025-11-27 014040](https://github.com/user-attachments/assets/9d10f4eb-fa37-4ba9-a52c-b565be03222a)
 
 ### Symptom Tracking
-Comprehensive list of all tracked symptoms with severity and status.
+![Screenshot 2025-11-27 013913](https://github.com/user-attachments/assets/fef21c7d-4b0f-42ec-b938-c2de2ea75345)
 
 ### Medical Reports
-Generated reports ready to send to your healthcare provider.
+![Screenshot 2025-11-27 014154](https://github.com/user-attachments/assets/ac768baf-bc0b-4c94-979f-84cd70f4e187)
+
 
 ## 🛠️ Tech Stack
 
